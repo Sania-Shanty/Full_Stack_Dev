@@ -9,4 +9,5 @@ let number=12;
 value=(number%2===0) ? "Even" :"Odd";
 console.log(value);
 
-
+let num=8;
+console.log(num>0 ? "Positive" : num<0 ? "Negative" : "Zero");
